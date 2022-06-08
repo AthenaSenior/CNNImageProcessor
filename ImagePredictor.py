@@ -1,8 +1,4 @@
-
-####### EGEMEN ÖNER - 18070006024 ######
-####### SE 3368 - SOFT COMPUTING
-####### FINAL PROJECT ###########
-####### SOURCE CODE - ImagePredictor.py ######
+## By AthenaSenior
 
 import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
